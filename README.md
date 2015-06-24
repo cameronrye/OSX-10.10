@@ -287,6 +287,36 @@ $ npm install --global gulp
 $ npm install -g yo
 ```
 
+## Install Browserify
+[Website](http://browserify.org/) | [GitHub](https://github.com/substack/browserify-website)
+```bash
+$ npm install -g browserify
+```
+
+## Install Webpack
+[Website](http://webpack.github.io/) | [GitHub](https://github.com/webpack/webpack)
+```bash
+$ npm install webpack -g
+```
+
+## Install Broccoli.js
+[Website](http://broccolijs.com/) | [GitHub](https://github.com/broccolijs/broccoli)
+```bash
+$ npm install -g broccoli-cli
+```
+
+## Install jspm
+[Website](http://jspm.io/) | [GitHub](https://github.com/jspm/jspm-cli)
+```bash
+$ npm install jspm -g
+```
+
+## Install Babel
+[Website](http://babeljs.io/) | [GitHub](https://github.com/babel/babel)
+```bash
+$ npm install -g babel
+```
+
 ## Install Browser Sync
 [Website](http://www.browsersync.io/) | [GitHub](https://github.com/Browsersync/browser-sync)
 ```bash
@@ -340,11 +370,11 @@ Check [Package Control](https://packagecontrol.io/) for the latest install scrip
 	"enable_tab_scrolling": false,
 	"findreplace_small": true,
 	"font_face": "Source Code Pro",
-    "font_size": 12,
-    "font_options":
-    [
-      "no_round, gray_antialias"
-    ],
+  "font_size": 12,
+  "font_options":
+  [
+    "no_round, gray_antialias"
+  ],
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -356,12 +386,17 @@ Check [Package Control](https://packagecontrol.io/) for the latest install scrip
 	"match_brackets_content": false,
 	"match_selection": false,
 	"match_tags": false,
+	"material_theme_small_tab": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": false,
 	"scroll_past_end": true,
 	"scroll_speed": 5.0,
 	"show_full_path": false,
+	"spacegray_sidebar_font_normal": true,
+	"spacegray_sidebar_tree_small": true,
+	"spacegray_tabs_font_normal": true,
+	"spacegray_tabs_large": true,
 	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
